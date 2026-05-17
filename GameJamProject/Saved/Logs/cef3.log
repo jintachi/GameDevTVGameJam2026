@@ -1,18 +1,10 @@
-[37612:38012:0517/114414.144:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[37612:15680:0517/114414.194:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[37612:38012:0517/114414.217:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[37612:23828:0517/114416.704:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[37612:23828:0517/114416.708:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[37612:23828:0517/114416.710:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[37612:23828:0517/114416.711:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\jadej\Documents\Unreal Projects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[37612:34660:0517/114417.101:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[37612:34660:0517/114417.103:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35468:37632:0517/114417.835:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E5F6F18857DA15B6619C42FAF7A09A93 will be ignored
-[37612:37244:0517/114421.598:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37612:37244:0517/114421.827:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37612:38012:0517/114423.161:ERROR:device_event_log_impl.cc(196)] [11:44:22.834] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[37612:37244:0517/114424.572:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37612:37244:0517/114424.929:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37612:37244:0517/114426.373:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37612:37244:0517/114426.538:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37612:38012:0517/124307.223:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[46756:51832:0517/120319.021:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[46756:51768:0517/120319.072:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[46756:51832:0517/120319.084:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[38352:42088:0517/120322.334:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B7BA56013926E09C5DA7F66975F70AA9 will be ignored
+[46756:51832:0517/120325.666:ERROR:device_event_log_impl.cc(196)] [12:03:25.336] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[44212:12648:0517/120326.427:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[44212:12648:0517/120327.006:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[44212:12648:0517/120340.147:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[44212:12648:0517/120352.417:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[46756:51832:0517/120432.763:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
