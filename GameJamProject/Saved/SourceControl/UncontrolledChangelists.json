@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Jesus_Test_Level.umap",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Player.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/BPC_Grid.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Test_Tile.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/BP_Grid.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Black.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Test_Tile2.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Purple.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Test_Tile_Balck.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Test_Tile_Black.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Test_Tile_Purple.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Tile_Matrix.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Tile_Colum.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus_Test_Level.umap",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Playerss.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Players.uasset",
+				"C:/UnrealProjects/GameDevTVGameJam2026/GameJamProject/Content/Jesus/Comp_Grid.uasset",
 				"D:/Mode Rogue Development/Game Jams/GameDevTV GameJam2026/GameDevTVGameJam2026/GameJamProject/Content/__ExternalActors__/BlankMap/1/SR/X7XOI02V7LR3YY3X7HAK6F.uasset"
 			]
 		}

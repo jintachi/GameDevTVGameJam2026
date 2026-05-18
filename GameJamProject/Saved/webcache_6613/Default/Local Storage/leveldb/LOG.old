@@ -1,3 +1,2 @@
-2026/05/17-11:39:39.977 c940 Reusing MANIFEST D:\Mode Rogue Development\Game Jams\GameDevTV GameJam2026\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/17-11:39:39.981 c940 Recovering log #3
-2026/05/17-11:39:39.983 c940 Reusing old log D:\Mode Rogue Development\Game Jams\GameDevTV GameJam2026\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/18-13:06:58.492 5854 Creating DB C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/05/18-13:06:58.544 5854 Reusing MANIFEST C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
