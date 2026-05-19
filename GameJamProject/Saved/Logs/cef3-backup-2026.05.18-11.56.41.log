@@ -1,32 +1,0 @@
-[4724:12404:0518/130657.837:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4724:12404:0518/130658.003:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[4724:39796:0518/130658.190:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4724:12404:0518/130658.398:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4724:39796:0518/130704.956:WARNING:leveldb_database.cc(141)] Unable to open C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4724:39796:0518/130704.960:WARNING:leveldb_database.cc(141)] Unable to open C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4724:39796:0518/130704.962:WARNING:leveldb_database.cc(141)] Unable to open C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4724:39796:0518/130704.965:WARNING:leveldb_database.cc(141)] Unable to open C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\UnrealProjects\GameDevTVGameJam2026\GameJamProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4724:39796:0518/130705.608:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4724:39796:0518/130705.611:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13564:23788:0518/130706.039:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ABE6C8A749E6A95025F0AB8BF68E2060 will be ignored
-[37020:13516:0518/130706.100:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[37020:13516:0518/130706.178:ERROR:backend_impl.cc(989)] Critical error found -8
-[37020:13516:0518/130706.178:WARNING:storage_block-inl.h(138)] Failed data load.
-[37020:13516:0518/130706.178:ERROR:entry_impl.cc(1029)] No file for c1030002
-[37020:13516:0518/130706.178:WARNING:storage_block-inl.h(138)] Failed data load.
-[37020:13516:0518/130706.281:ERROR:entry_impl.cc(955)] Failed to save user data
-[4724:12404:0518/132356.995:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132401.994:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132416.995:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132441.997:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132447.001:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132522.223:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132547.466:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132552.529:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132557.810:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132602.833:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132607.835:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132627.836:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132858.236:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/132928.580:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4724:12404:0518/135641.443:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
