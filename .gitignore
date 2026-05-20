@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#UE not shared folders
+GameJamProject/Intermediate/
+GameJamProject/Saved/
+
 # Compiled Object files
 *.slo
 *.lo
