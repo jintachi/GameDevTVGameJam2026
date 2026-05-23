@@ -2,8 +2,12 @@
 .vs/
 
 #UE not shared folders
+GameJamProject/Binaries/
+GameJamProject/Build/
 GameJamProject/Intermediate/
 GameJamProject/Saved/
+GameJamProject/DerivedDataCache/
+
 
 # Compiled Object files
 *.slo
